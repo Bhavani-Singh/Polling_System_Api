@@ -1,5 +1,4 @@
 require('dotenv').config()
-console.log(process.env.USER_NAME);
 // importing express package
 const express = require("express");
 
